@@ -1,1 +1,1 @@
-# rsschool-cv
+https://graft-polymer.github.io/rsschool-cv/cv
