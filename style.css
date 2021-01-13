@@ -1,0 +1,34 @@
+body {
+  width: 1024px;
+  margin: 0 auto;
+  height: 100%;
+  background-color: white;
+  font-family: "Courier New", Courier, monospace;
+  font-size: 16px;
+}
+
+header h1 {
+  text-align: center;
+}
+.container {
+  display: flex;
+  flex-direction: row;
+}
+.foto-img {
+  width: 40%;
+}
+
+.img {
+  width: 300px;
+}
+.foto-img p {
+  text-align: center;
+}
+
+.infoMe {
+  width: 60%;
+  text-align: left;
+}
+.infoMe h2 {
+  text-align: center;
+}
